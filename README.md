@@ -12,7 +12,7 @@ In this exploration, a Shiny App has been developed to delve deeper into less-ex
 <p>2. World level climate change interactie map</p>p>
 <p align="center">
   <img src="https://github.com/ShivamZal/Rshiny-Climate-Change-App/blob/main/world_level.PNG" alt="GitHub Logo" width="80%" height="60%">
-</p>
+
 
 
   <p>3. US states comparison interactive app</p>
